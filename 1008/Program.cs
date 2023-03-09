@@ -2,6 +2,7 @@
 
 class Program
 {
+
     static void Main(string[] args)
     {
         int numeroFuncionario = int.Parse(Console.ReadLine());
